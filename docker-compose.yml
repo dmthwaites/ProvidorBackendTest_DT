@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  providorbackendtest.api:
+    image: providorbackendtestapi
+    build:
+      context: .
+      dockerfile: src/ProvidorBackendTest.Api/Dockerfile

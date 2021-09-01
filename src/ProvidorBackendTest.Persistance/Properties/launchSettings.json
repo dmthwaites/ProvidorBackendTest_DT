@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ProvidorBackendTest.Persistance": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
